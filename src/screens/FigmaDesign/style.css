@@ -1,0 +1,1764 @@
+.figma-design {
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.figma-design .root-wrapper {
+  height: 589px;
+  width: 860px;
+}
+
+.figma-design .root {
+
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 589px;
+}
+
+.figma-design .overlap {
+  height: 589px;
+  position: relative;
+  width: 860px;
+}
+
+.figma-design .overlap-group {
+  height: 589px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 860px;
+}
+
+.figma-design .groups {
+  height: 589px;
+  left: 592px;
+  position: absolute;
+  top: 0;
+  width: 268px;
+}
+
+.figma-design .overlap-wrapper {
+  height: 244px;
+  left: 3px;
+  position: absolute;
+  top: 344px;
+  width: 259px;
+}
+
+.figma-design .div {
+  height: 229px;
+  position: relative;
+  top: 6px;
+  width: 256px;
+}
+
+.figma-design .groups-2 {
+  height: 39px;
+  left: 1px;
+  position: absolute;
+  top: 190px;
+  width: 254px;
+}
+
+.figma-design .image {
+  height: 10px;
+  left: 230px;
+  object-fit: cover;
+  position: absolute;
+  top: 16px;
+  width: 10px;
+}
+
+.figma-design .background {
+  height: 13px;
+  left: 223px;
+  object-fit: cover;
+  position: absolute;
+  top: 15px;
+  width: 1px;
+}
+
+.figma-design .text-wrapper {
+  color: #bdbec0;
+  font-family: "Inter", Helvetica;
+  font-size: 6.4px;
+  font-weight: 600;
+  height: 11px;
+  left: 200px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 14px;
+  width: 19px;
+}
+
+.figma-design .img {
+  height: 6px;
+  left: 94px;
+  object-fit: cover;
+  position: absolute;
+  top: 18px;
+  width: 82px;
+}
+
+.figma-design .text-wrapper-2 {
+  color: #8e8e8f;
+  font-family: "Inter", Helvetica;
+  font-size: 9.5px;
+  font-weight: 300;
+  height: 12px;
+  left: 22px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 14px;
+  width: 58px;
+}
+
+.figma-design .groups-3 {
+  height: 40px;
+  left: 0;
+  position: absolute;
+  top: 155px;
+  width: 254px;
+}
+
+.figma-design .image-2 {
+  height: 10px;
+  left: 231px;
+  object-fit: cover;
+  position: absolute;
+  top: 15px;
+  width: 10px;
+}
+
+.figma-design .background-2 {
+  height: 13px;
+  left: 224px;
+  object-fit: cover;
+  position: absolute;
+  top: 13px;
+  width: 1px;
+}
+
+.figma-design .text-wrapper-3 {
+  color: #bdbdbf;
+  font-family: "Inter", Helvetica;
+  font-size: 6.4px;
+  font-weight: 600;
+  height: 11px;
+  left: 200px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 12px;
+  width: 19px;
+}
+
+.figma-design .image-3 {
+  height: 6px;
+  left: 95px;
+  object-fit: cover;
+  position: absolute;
+  top: 17px;
+  width: 66px;
+}
+
+.figma-design .text-wrapper-4 {
+  color: #88898a;
+  font-family: "Inter", Helvetica;
+  font-size: 9px;
+  font-weight: 600;
+  height: 12px;
+  left: 23px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 12px;
+  width: 56px;
+}
+
+.figma-design .groups-4 {
+  height: 40px;
+  left: 1px;
+  position: absolute;
+  top: 119px;
+  width: 253px;
+}
+
+.figma-design .image-4 {
+  height: 11px;
+  left: 230px;
+  object-fit: cover;
+  position: absolute;
+  top: 14px;
+  width: 10px;
+}
+
+.figma-design .background-3 {
+  height: 13px;
+  left: 223px;
+  object-fit: cover;
+  position: absolute;
+  top: 13px;
+  width: 1px;
+}
+
+.figma-design .text-wrapper-5 {
+  color: #a6a6a8;
+  font-family: "Inter", Helvetica;
+  font-size: 7.9px;
+  font-weight: 600;
+  height: 11px;
+  left: 199px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 12px;
+  width: 20px;
+}
+
+.figma-design .image-5 {
+  height: 5px;
+  left: 94px;
+  object-fit: cover;
+  position: absolute;
+  top: 17px;
+  width: 96px;
+}
+
+.figma-design .text-wrapper-6 {
+  color: #8c8c8d;
+  font-family: "Inter", Helvetica;
+  font-size: 9.1px;
+  font-weight: 600;
+  height: 12px;
+  left: 22px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 12px;
+  width: 58px;
+}
+
+.figma-design .groups-5 {
+  height: 40px;
+  left: 1px;
+  position: absolute;
+  top: 82px;
+  width: 255px;
+}
+
+.figma-design .image-6 {
+  height: 10px;
+  left: 230px;
+  object-fit: cover;
+  position: absolute;
+  top: 15px;
+  width: 10px;
+}
+
+.figma-design .background-4 {
+  height: 12px;
+  left: 223px;
+  object-fit: cover;
+  position: absolute;
+  top: 14px;
+  width: 1px;
+}
+
+.figma-design .text-wrapper-7 {
+  color: #bbbbbd;
+  font-family: "Inter", Helvetica;
+  font-size: 6.4px;
+  font-weight: 600;
+  height: 12px;
+  left: 199px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 12px;
+  width: 19px;
+}
+
+.figma-design .image-7 {
+  height: 6px;
+  left: 94px;
+  object-fit: cover;
+  position: absolute;
+  top: 17px;
+  width: 92px;
+}
+
+.figma-design .text-wrapper-8 {
+  color: #7a7b7c;
+  font-family: "Inter", Helvetica;
+  font-size: 9.3px;
+  font-weight: 600;
+  height: 14px;
+  left: 22px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 12px;
+  width: 46px;
+}
+
+.figma-design .groups-6 {
+  height: 39px;
+  left: 3px;
+  position: absolute;
+  top: 46px;
+  width: 252px;
+}
+
+.figma-design .overlap-group-2 {
+  height: 10px;
+  left: 228px;
+  position: absolute;
+  top: 15px;
+  width: 10px;
+}
+
+.figma-design .image-8 {
+  height: 8px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 10px;
+}
+
+.figma-design .image-9 {
+  height: 8px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 8px;
+}
+
+.figma-design .background-5 {
+  height: 13px;
+  left: 221px;
+  object-fit: cover;
+  position: absolute;
+  top: 13px;
+  width: 1px;
+}
+
+.figma-design .text-wrapper-9 {
+  color: #bcbcbe;
+  font-family: "Inter", Helvetica;
+  font-size: 6.4px;
+  font-weight: 600;
+  height: 11px;
+  left: 199px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 12px;
+  width: 18px;
+}
+
+.figma-design .image-10 {
+  height: 5px;
+  left: 93px;
+  object-fit: cover;
+  position: absolute;
+  top: 17px;
+  width: 76px;
+}
+
+.figma-design .text-wrapper-10 {
+  color: #8d8e8f;
+  font-family: "Inter", Helvetica;
+  font-size: 9.1px;
+  font-weight: 600;
+  height: 12px;
+  left: 19px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 12px;
+  width: 59px;
+}
+
+.figma-design .groups-7 {
+  height: 49px;
+  left: 3px;
+  position: absolute;
+  top: 0;
+  width: 252px;
+}
+
+.figma-design .most-common-area {
+  color: #b1b1b2;
+  font-family: "Inter", Helvetica;
+  font-size: 6.4px;
+  font-weight: 600;
+  height: 10px;
+  left: 19px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 26px;
+  width: 135px;
+}
+
+.figma-design .text-wrapper-11 {
+  color: #575859;
+  font-family: "Inter", Helvetica;
+  font-size: 12.9px;
+  font-weight: 600;
+  height: 16px;
+  left: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 7px;
+  width: 106px;
+}
+
+.figma-design .overlap-2 {
+  height: 268px;
+  left: 8px;
+  position: absolute;
+  top: 64px;
+  width: 260px;
+}
+
+.figma-design .groups-8 {
+  height: 94px;
+  left: 0;
+  position: absolute;
+  top: 174px;
+  width: 260px;
+}
+
+.figma-design .image-11 {
+  height: 8px;
+  left: 167px;
+  object-fit: cover;
+  position: absolute;
+  top: 67px;
+  width: 4px;
+}
+
+.figma-design .text-wrapper-12 {
+  color: #b0b1b3;
+  font-family: "Inter", Helvetica;
+  font-size: 7.8px;
+  font-weight: 600;
+  height: 11px;
+  left: 90px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 65px;
+  width: 69px;
+}
+
+.figma-design .text-wrapper-13 {
+  color: #98989a;
+  font-family: "Inter", Helvetica;
+  font-size: 7.9px;
+  font-weight: 600;
+  height: 10px;
+  left: 102px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 32px;
+  width: 25px;
+}
+
+.figma-design .image-12 {
+  height: 9px;
+  left: 90px;
+  object-fit: cover;
+  position: absolute;
+  top: 34px;
+  width: 9px;
+}
+
+.figma-design .text-wrapper-14 {
+  color: #707071;
+  font-family: "Inter", Helvetica;
+  font-size: 7.8px;
+  font-weight: 600;
+  height: 11px;
+  left: 17px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 33px;
+  width: 42px;
+}
+
+.figma-design .text-wrapper-15 {
+  color: #6e6f6f;
+  font-family: "Inter", Helvetica;
+  font-size: 9.6px;
+  font-weight: 600;
+  height: 13px;
+  left: 227px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 14px;
+  width: 10px;
+}
+
+.figma-design .lead-designers-e {
+  color: #717172;
+  font-family: "Inter", Helvetica;
+  font-size: 9.3px;
+  font-weight: 600;
+  height: 13px;
+  left: 90px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 14px;
+  width: 115px;
+}
+
+.figma-design .text-wrapper-16 {
+  color: #a6a6a8;
+  font-family: "Inter", Helvetica;
+  font-size: 5.9px;
+  font-weight: 600;
+  height: 10px;
+  left: 17px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 16px;
+  width: 45px;
+}
+
+.figma-design .background-6 {
+  height: 2px;
+  left: 18px;
+  object-fit: cover;
+  position: absolute;
+  top: 174px;
+  width: 219px;
+}
+
+.figma-design .groups-9 {
+  height: 61px;
+  left: 1px;
+  position: absolute;
+  top: 115px;
+  width: 259px;
+}
+
+.figma-design .text-wrapper-17 {
+  color: #abacad;
+  font-family: "Inter", Helvetica;
+  font-size: 7.8px;
+  font-weight: 600;
+  height: 11px;
+  left: 101px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 32px;
+  width: 52px;
+}
+
+.figma-design .image-13 {
+  height: 8px;
+  left: 89px;
+  object-fit: cover;
+  position: absolute;
+  top: 35px;
+  width: 9px;
+}
+
+.figma-design .text-wrapper-18 {
+  color: #7f7f80;
+  font-family: "Inter", Helvetica;
+  font-size: 10.7px;
+  font-weight: 600;
+  height: 13px;
+  left: 226px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 15px;
+  width: 10px;
+}
+
+.figma-design .call-with-a-new {
+  color: #858586;
+  font-family: "Inter", Helvetica;
+  font-size: 9px;
+  font-weight: 600;
+  height: 11px;
+  left: 89px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 15px;
+  width: 110px;
+}
+
+.figma-design .groups-10 {
+  height: 59px;
+  left: 2px;
+  position: absolute;
+  top: 1px;
+  width: 76px;
+}
+
+.figma-design .text-wrapper-19 {
+  color: #797a7b;
+  font-family: "Inter", Helvetica;
+  font-size: 7.8px;
+  font-weight: 600;
+  height: 11px;
+  left: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 32px;
+  width: 41px;
+}
+
+.figma-design .text-wrapper-20 {
+  color: #aeafb1;
+  font-family: "Inter", Helvetica;
+  font-size: 6.8px;
+  font-weight: 600;
+  height: 10px;
+  left: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 15px;
+  width: 45px;
+}
+
+.figma-design .background-7 {
+  height: 2px;
+  left: 15px;
+  object-fit: cover;
+  position: absolute;
+  top: 115px;
+  width: 222px;
+}
+
+.figma-design .groups-11 {
+  height: 60px;
+  left: 1px;
+  position: absolute;
+  top: 57px;
+  width: 259px;
+}
+
+.figma-design .text-wrapper-21 {
+  color: #b0b1b2;
+  font-family: "Inter", Helvetica;
+  font-size: 6.8px;
+  font-weight: 600;
+  height: 10px;
+  left: 101px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 32px;
+  width: 53px;
+}
+
+.figma-design .image-14 {
+  height: 7px;
+  left: 89px;
+  object-fit: cover;
+  position: absolute;
+  top: 35px;
+  width: 9px;
+}
+
+.figma-design .image-15 {
+  height: 8px;
+  left: 226px;
+  object-fit: cover;
+  position: absolute;
+  top: 19px;
+  width: 9px;
+}
+
+.figma-design .text-wrapper-22 {
+  color: #767778;
+  font-family: "Inter", Helvetica;
+  font-size: 9.6px;
+  font-weight: 600;
+  height: 13px;
+  left: 89px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 14px;
+  width: 92px;
+}
+
+.figma-design .text-wrapper-23 {
+  color: #7c7c7d;
+  font-family: "Inter", Helvetica;
+  font-size: 7.8px;
+  font-weight: 600;
+  height: 10px;
+  left: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 32px;
+  width: 41px;
+}
+
+.figma-design .text-wrapper-24 {
+  color: #a9a9ab;
+  font-family: "Inter", Helvetica;
+  font-size: 6.4px;
+  font-weight: 600;
+  height: 10px;
+  left: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 15px;
+  width: 41px;
+}
+
+.figma-design .background-8 {
+  height: 3px;
+  left: 17px;
+  object-fit: cover;
+  position: absolute;
+  top: 56px;
+  width: 219px;
+}
+
+.figma-design .groups-12 {
+  height: 58px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 260px;
+}
+
+.figma-design .text-wrapper-25 {
+  color: #bbbcbe;
+  font-family: "Inter", Helvetica;
+  font-size: 6.4px;
+  font-weight: 600;
+  height: 11px;
+  left: 102px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 30px;
+  width: 25px;
+}
+
+.figma-design .image-16 {
+  height: 9px;
+  left: 90px;
+  object-fit: cover;
+  position: absolute;
+  top: 32px;
+  width: 9px;
+}
+
+.figma-design .text-wrapper-26 {
+  color: #3b3c3d;
+  font-family: "Inter", Helvetica;
+  font-size: 6.4px;
+  font-weight: 600;
+  height: 10px;
+  left: 17px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 31px;
+  width: 39px;
+}
+
+.figma-design .image-17 {
+  height: 8px;
+  left: 227px;
+  object-fit: cover;
+  position: absolute;
+  top: 17px;
+  width: 8px;
+}
+
+.figma-design .quick-daily-meet {
+  color: #7f8081;
+  font-family: "Inter", Helvetica;
+  font-size: 10.5px;
+  font-weight: 600;
+  height: 13px;
+  left: 90px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 13px;
+  width: 103px;
+}
+
+.figma-design .text-wrapper-27 {
+  color: #747476;
+  font-family: "Inter", Helvetica;
+  font-size: 6.8px;
+  font-weight: 600;
+  height: 11px;
+  left: 17px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 14px;
+  width: 43px;
+}
+
+.figma-design .groups-13 {
+  height: 46px;
+  left: 7px;
+  position: absolute;
+  top: 18px;
+  width: 261px;
+}
+
+.figma-design .image-18 {
+  height: 31px;
+  left: 208px;
+  object-fit: cover;
+  position: absolute;
+  top: 7px;
+  width: 29px;
+}
+
+.figma-design .text-wrapper-28 {
+  color: #6d6e6f;
+  font-family: "Inter", Helvetica;
+  font-size: 12.6px;
+  font-weight: 600;
+  height: 17px;
+  left: 19px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 14px;
+  width: 81px;
+}
+
+.figma-design .background-9 {
+  height: 589px;
+  left: 590px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 7px;
+}
+
+.figma-design .groups-14 {
+  height: 256px;
+  left: 0;
+  position: absolute;
+  top: 333px;
+  width: 595px;
+}
+
+.figma-design .text-wrapper-29 {
+  color: #b6b7b9;
+  font-family: "Inter", Helvetica;
+  font-size: 7.8px;
+  font-weight: 600;
+  height: 11px;
+  left: 510px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 224px;
+  width: 60px;
+}
+
+.figma-design .min-or-lack-of-f {
+  color: #8b8c8d;
+  font-family: "Inter", Helvetica;
+  font-size: 6.4px;
+  font-weight: 600;
+  height: 11px;
+  left: 189px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 223px;
+  width: 80px;
+}
+
+.figma-design .background-10 {
+  height: 9px;
+  left: 176px;
+  object-fit: cover;
+  position: absolute;
+  top: 226px;
+  width: 9px;
+}
+
+.figma-design .text-wrapper-30 {
+  color: #a5a6a8;
+  font-family: "Inter", Helvetica;
+  font-size: 6.4px;
+  font-weight: 300;
+  height: 9px;
+  left: 85px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 224px;
+  width: 77px;
+}
+
+.figma-design .background-11 {
+  height: 9px;
+  left: 72px;
+  object-fit: cover;
+  position: absolute;
+  top: 226px;
+  width: 9px;
+}
+
+.figma-design .image-19 {
+  height: 8px;
+  left: 36px;
+  object-fit: cover;
+  position: absolute;
+  top: 225px;
+  width: 6px;
+}
+
+.figma-design .text-wrapper-31 {
+  color: #717273;
+  font-family: "Inter", Helvetica;
+  font-size: 28px;
+  font-weight: 500;
+  height: 27px;
+  left: 511px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 193px;
+  white-space: nowrap;
+  width: 56px;
+}
+
+.figma-design .text-wrapper-32 {
+  color: #d9dadc;
+  font-family: "Inter", Helvetica;
+  font-size: 6.9px;
+  font-weight: 600;
+  height: 12px;
+  left: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 191px;
+  width: 18px;
+}
+
+.figma-design .text-wrapper-33 {
+  color: #d2d3d5;
+  font-family: "Inter", Helvetica;
+  font-size: 6.5px;
+  font-weight: 600;
+  height: 11px;
+  left: 31px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 159px;
+  width: 17px;
+}
+
+.figma-design .button {
+  all: unset;
+  box-sizing: border-box;
+  height: 27px;
+  left: 20px;
+  position: absolute;
+  top: 117px;
+  width: 36px;
+}
+
+.figma-design .div-wrapper {
+  background-image: url(../../../static/img/background-12.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 20px;
+  left: 4px;
+  position: relative;
+  top: 4px;
+  width: 29px;
+}
+
+.figma-design .text-wrapper-34 {
+  color: #84a9fb;
+  font-family: "Inter", Helvetica;
+  font-size: 7.8px;
+  font-weight: 600;
+  height: 12px;
+  left: 6px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 3px;
+  width: 18px;
+}
+
+.figma-design .text-wrapper-35 {
+  color: #d4d4d6;
+  font-family: "Inter", Helvetica;
+  font-size: 7.8px;
+  font-weight: 600;
+  height: 12px;
+  left: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 89px;
+  width: 18px;
+}
+
+.figma-design .overlap-3 {
+  height: 177px;
+  left: 24px;
+  position: absolute;
+  top: 11px;
+  width: 550px;
+}
+
+.figma-design .overlap-4 {
+  height: 177px;
+  left: 43px;
+  position: absolute;
+  top: 0;
+  width: 507px;
+}
+
+.figma-design .overlap-group-wrapper {
+  all: unset;
+  box-sizing: border-box;
+  height: 35px;
+  left: 384px;
+  position: absolute;
+  top: 0;
+  width: 121px;
+}
+
+.figma-design .overlap-5 {
+  background-image: url(../../../static/img/background-13.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 35px;
+  left: 4px;
+  position: relative;
+  width: 116px;
+}
+
+.figma-design .image-20 {
+  height: 5px;
+  left: 97px;
+  object-fit: cover;
+  position: absolute;
+  top: 16px;
+  width: 7px;
+}
+
+.figma-design .range-last-mon {
+  color: #6b6b6b;
+  font-family: "Inter", Helvetica;
+  font-size: 7.8px;
+  font-weight: 600;
+  height: 11px;
+  left: 9px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 12px;
+  width: 82px;
+}
+
+.figma-design .overlap-6 {
+  height: 145px;
+  left: 0;
+  position: absolute;
+  top: 32px;
+  width: 507px;
+}
+
+.figma-design .image-21 {
+  height: 116px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 29px;
+  width: 507px;
+}
+
+.figma-design .button-2 {
+  height: 44px;
+  left: 217px;
+  position: absolute;
+  top: 0;
+  width: 84px;
+}
+
+.figma-design .overlap-7 {
+  background-image: url(../../../static/img/background-14.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 42px;
+  left: 2px;
+  position: relative;
+  width: 81px;
+}
+
+.figma-design .text-wrapper-36 {
+  color: #bdbdbd;
+  font-family: "Inter", Helvetica;
+  font-size: 7.9px;
+  font-weight: 600;
+  height: 9px;
+  left: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 22px;
+  white-space: nowrap;
+  width: 50px;
+}
+
+.figma-design .text-wrapper-37 {
+  color: #878787;
+  font-family: "Inter", Helvetica;
+  font-size: 9.5px;
+  font-weight: 600;
+  height: 11px;
+  left: 21px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 9px;
+  width: 38px;
+}
+
+.figma-design .productivity-ana {
+  color: #b5b5b5;
+  font-family: "Inter", Helvetica;
+  font-size: 5.4px;
+  font-weight: 600;
+  height: 11px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 21px;
+  width: 91px;
+}
+
+.figma-design .text-wrapper-38 {
+  color: #676868;
+  font-family: "Inter", Helvetica;
+  font-size: 12.9px;
+  font-weight: 600;
+  height: 16px;
+  left: 1px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 2px;
+  width: 58px;
+}
+
+.figma-design .image-22 {
+  height: 7px;
+  left: 36px;
+  object-fit: cover;
+  position: absolute;
+  top: 62px;
+  width: 6px;
+}
+
+.figma-design .groups-15 {
+  height: 56px;
+  left: 5px;
+  position: absolute;
+  top: 13px;
+  width: 589px;
+}
+
+.figma-design .image-23 {
+  height: 31px;
+  left: 536px;
+  object-fit: cover;
+  position: absolute;
+  top: 13px;
+  width: 29px;
+}
+
+.figma-design .text {
+  height: 34px;
+  left: 380px;
+  position: absolute;
+  top: 10px;
+  width: 149px;
+}
+
+.figma-design .overlap-group-3 {
+  background-color: #e1e2e7;
+  border-radius: 13.5px;
+  height: 28px;
+  left: 4px;
+  position: relative;
+  top: 5px;
+  width: 143px;
+}
+
+.figma-design .text-wrapper-39 {
+  color: #8d8d90;
+  font-family: "Inter", Helvetica;
+  font-size: 7.9px;
+  font-weight: 600;
+  height: 10px;
+  left: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 7px;
+  width: 30px;
+}
+
+.figma-design .image-24 {
+  height: 10px;
+  left: 9px;
+  object-fit: cover;
+  position: absolute;
+  top: 8px;
+  width: 10px;
+}
+
+.figma-design .your-personal-da {
+  color: #a9a9aa;
+  font-family: "Inter", Helvetica;
+  font-size: 5.9px;
+  font-weight: 600;
+  height: 10px;
+  left: 55px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 31px;
+  width: 143px;
+}
+
+.figma-design .text-wrapper-40 {
+  color: #666667;
+  font-family: "Inter", Helvetica;
+  font-size: 11.5px;
+  font-weight: 600;
+  height: 14px;
+  left: 55px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 12px;
+  width: 105px;
+}
+
+.figma-design .image-25 {
+  height: 29px;
+  left: 19px;
+  object-fit: cover;
+  position: absolute;
+  top: 14px;
+  width: 29px;
+}
+
+.figma-design .groups-16 {
+  height: 61px;
+  left: 242px;
+  position: absolute;
+  top: 265px;
+  width: 330px;
+}
+
+.figma-design .overlap-8 {
+  background-color: #e1e2e7;
+  border-radius: 13px;
+  height: 57px;
+  left: 3px;
+  position: relative;
+  top: 2px;
+  width: 325px;
+}
+
+.figma-design .element-active-connect {
+  color: #9c9da0;
+  font-family: "Inter", Helvetica;
+  font-size: 6.4px;
+  font-weight: 600;
+  height: 10px;
+  left: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 30px;
+  width: 87px;
+}
+
+.figma-design .image-26 {
+  height: 3px;
+  left: 293px;
+  object-fit: cover;
+  position: absolute;
+  top: 27px;
+  width: 10px;
+}
+
+.figma-design .overlap-group-4 {
+  height: 35px;
+  left: 194px;
+  position: absolute;
+  top: 10px;
+  width: 81px;
+}
+
+.figma-design .image-27 {
+  height: 23px;
+  left: 32px;
+  object-fit: cover;
+  position: absolute;
+  top: 7px;
+  width: 24px;
+}
+
+.figma-design .image-28 {
+  height: 29px;
+  left: 55px;
+  object-fit: cover;
+  position: absolute;
+  top: 4px;
+  width: 26px;
+}
+
+.figma-design .image-29 {
+  background-color: #e1e2e7;
+  height: 35px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 32px;
+}
+
+.figma-design .image-30 {
+  height: 29px;
+  left: 4px;
+  object-fit: cover;
+  position: absolute;
+  top: 4px;
+  width: 52px;
+}
+
+.figma-design .trackers-connect {
+  color: #737375;
+  font-family: "Inter", Helvetica;
+  font-size: 9.5px;
+  font-weight: 600;
+  height: 12px;
+  left: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 13px;
+  width: 104px;
+}
+
+.figma-design .groups-17 {
+  height: 181px;
+  left: 409px;
+  position: absolute;
+  top: 77px;
+  width: 163px;
+}
+
+.figma-design .overlap-9 {
+  background-image: url(../../../static/img/image-27.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 177px;
+  left: 3px;
+  position: relative;
+  top: 3px;
+  width: 158px;
+}
+
+.figma-design .text-wrapper-41 {
+  color: #6eaeb6;
+  font-family: "Inter", Helvetica;
+  font-size: 7.8px;
+  font-weight: 600;
+  height: 11px;
+  left: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 148px;
+  width: 67px;
+}
+
+.figma-design .text-wrapper-42 {
+  color: #486163;
+  font-family: "Inter", Helvetica;
+  font-size: 27.9px;
+  font-weight: 600;
+  height: 27px;
+  left: 19px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 116px;
+  white-space: nowrap;
+  width: 61px;
+}
+
+.figma-design .image-31 {
+  height: 30px;
+  left: 110px;
+  object-fit: cover;
+  position: absolute;
+  top: 19px;
+  width: 29px;
+}
+
+.figma-design .additional-tasks {
+  color: #7b8a8f;
+  font-family: "Inter", Helvetica;
+  font-size: 10.7px;
+  font-weight: 600;
+  height: 26px;
+  left: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 19px;
+  width: 54px;
+}
+
+.figma-design .groups-18 {
+  height: 181px;
+  left: 241px;
+  position: absolute;
+  top: 78px;
+  width: 163px;
+}
+
+.figma-design .overlap-10 {
+  background-image: url(../../../static/img/image-29.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 177px;
+  left: 3px;
+  position: relative;
+  top: 2px;
+  width: 159px;
+}
+
+.figma-design .text-wrapper-43 {
+  color: #b791a5;
+  font-family: "Inter", Helvetica;
+  font-size: 7.8px;
+  font-weight: 600;
+  height: 11px;
+  left: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 148px;
+  width: 67px;
+}
+
+.figma-design .text-wrapper-44 {
+  color: #5b5559;
+  font-family: "Inter", Helvetica;
+  font-size: 27.9px;
+  font-weight: 600;
+  height: 27px;
+  left: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 116px;
+  white-space: nowrap;
+  width: 62px;
+}
+
+.figma-design .image-32 {
+  height: 29px;
+  left: 110px;
+  object-fit: cover;
+  position: absolute;
+  top: 20px;
+  width: 29px;
+}
+
+.figma-design .prioritized-task {
+  color: #827e80;
+  font-family: "Inter", Helvetica;
+  font-size: 10.1px;
+  font-weight: 600;
+  height: 26px;
+  left: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 19px;
+  width: 54px;
+}
+
+.figma-design .groups-19 {
+  height: 249px;
+  left: 23px;
+  position: absolute;
+  top: 78px;
+  width: 213px;
+}
+
+.figma-design .overlap-11 {
+  background-image: url(../../../static/img/background-15.png);
+  background-size: 100% 100%;
+  height: 243px;
+  left: 1px;
+  position: relative;
+  top: 3px;
+  width: 211px;
+}
+
+.figma-design .button-3 {
+  all: unset;
+  box-sizing: border-box;
+  height: 32px;
+  left: 135px;
+  position: absolute;
+  top: 190px;
+  width: 55px;
+}
+
+.figma-design .overlap-group-5 {
+  background-image: url(../../../static/img/background-16.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 24px;
+  left: 4px;
+  position: relative;
+  top: 5px;
+  width: 48px;
+}
+
+.figma-design .text-wrapper-45 {
+  color: #3e3e3e;
+  font-family: "Inter", Helvetica;
+  font-size: 9px;
+  font-weight: 600;
+  height: 12px;
+  left: 26px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 5px;
+  width: 11px;
+}
+
+.figma-design .image-33 {
+  height: 9px;
+  left: 12px;
+  object-fit: cover;
+  position: absolute;
+  top: 8px;
+  width: 9px;
+}
+
+.figma-design .button-4 {
+  all: unset;
+  box-sizing: border-box;
+  height: 32px;
+  left: 78px;
+  position: absolute;
+  top: 190px;
+  width: 54px;
+}
+
+.figma-design .overlap-12 {
+  background-color: #fffefe;
+  border-radius: 9px;
+  height: 24px;
+  left: 4px;
+  position: relative;
+  top: 5px;
+  width: 47px;
+}
+
+.figma-design .text-wrapper-46 {
+  color: #838383;
+  font-family: "Inter", Helvetica;
+  font-size: 7.9px;
+  font-weight: 600;
+  height: 11px;
+  left: 25px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 5px;
+  width: 13px;
+}
+
+.figma-design .button-5 {
+  all: unset;
+  box-sizing: border-box;
+  height: 33px;
+  left: 20px;
+  position: absolute;
+  top: 190px;
+  width: 55px;
+}
+
+.figma-design .overlap-13 {
+  background-image: url(../../../static/img/background-17.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 32px;
+  left: 1px;
+  position: relative;
+  width: 52px;
+}
+
+.figma-design .text-wrapper-47 {
+  color: #5d5d5d;
+  font-family: "Inter", Helvetica;
+  font-size: 8px;
+  font-weight: 600;
+  height: 12px;
+  left: 29px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 10px;
+  width: 10px;
+}
+
+.figma-design .image-34 {
+  height: 9px;
+  left: 15px;
+  object-fit: cover;
+  position: absolute;
+  top: 13px;
+  width: 10px;
+}
+
+.figma-design .text-wrapper-48 {
+  color: #b5b5b5;
+  font-family: "Inter", Helvetica;
+  font-size: 4.8px;
+  font-weight: 600;
+  height: 11px;
+  left: 72px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 161px;
+  width: 68px;
+}
+
+.figma-design .text-wrapper-49 {
+  color: #6d6d6d;
+  font-family: "Inter", Helvetica;
+  font-size: 11.6px;
+  font-weight: 600;
+  height: 14px;
+  left: 60px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 142px;
+  width: 91px;
+}
+
+.figma-design .overlap-14 {
+  background-image: url(../../../static/img/image-34.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 73px;
+  left: 70px;
+  position: absolute;
+  top: 54px;
+  width: 72px;
+}
+
+.figma-design .text-wrapper-50 {
+  color: #272727;
+  font-family: "Inter", Helvetica;
+  font-size: 17.3px;
+  font-weight: 600;
+  height: 17px;
+  left: 51px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 53px;
+  white-space: nowrap;
+  width: 17px;
+}
+
+.figma-design .image-35 {
+  height: 12px;
+  left: 177px;
+  object-fit: cover;
+  position: absolute;
+  top: 21px;
+  width: 12px;
+}
+
+.figma-design .text-wrapper-51 {
+  color: #808080;
+  font-family: "Inter", Helvetica;
+  font-size: 9px;
+  font-weight: 600;
+  height: 11px;
+  left: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 19px;
+  width: 33px;
+}
